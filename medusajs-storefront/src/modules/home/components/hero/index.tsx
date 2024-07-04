@@ -24,7 +24,7 @@ const Hero = () => {
           target="_blank"
         >
           <h1 style={{ textDecoration: "underline" }}>
-            Visit the tutorial
+            Visit the
           </h1>
         </a>
       </div>
